@@ -1,5 +1,3 @@
-// server.c
-
 #include <arpa/inet.h>
 #include <pthread.h>
 #include <stdio.h>
